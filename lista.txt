@@ -6,3 +6,6 @@ Lista del súper:
 5. Tortillas
 6. Brócoli
 7. Queso panela
+8. Galletas
+9. Papitas
+10.Cacahuates

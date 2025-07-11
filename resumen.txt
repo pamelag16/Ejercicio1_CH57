@@ -1,0 +1,1 @@
+Las ramas en git nos permiten administrar el código de manera separada y por lo tanto de manera independiente de las otras ramas.
